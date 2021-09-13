@@ -2,13 +2,13 @@
 layout: docs
 ---
 
-# Privacy Policy - Discord Welcome-Bot
+# Privacy Policy - Discord NemO-Bot
 
 Last updated and effective: 26 August 2021
 
-By using Welcome-Bot, you agree to the following privacy policy.
+By using NemO-Bot, you agree to the following privacy policy.
 
-*The Welcome-Bot website does not directly store data but uses Google Analytics, see [Analytics Privacy Info](https://policies.google.com/technologies/partner-sites).*
+*The NemO-Bot website does not directly store data but uses Google Analytics, see [Analytics Privacy Info](https://policies.google.com/technologies/partner-sites).*
 
 ## Usage of Data
 
@@ -20,7 +20,7 @@ No usage of data outside of the aformentioned cases will happen and the data is 
 The bot may store the following information automatically when being invited to a new Discord Server:
 
 - `guildId` with the `Server's ID` as value.
-- `prefix` with value `w/`.
+- `prefix` with value `-`.
 - `plugins.welcome.channel` with value `member-log`
 - `plugins.welcome.message` with value `Welcome {mention} to the {server} server!\nYou are our #{members_formatted} member`
 - `plugins.welcome.enabled` with value `true`
@@ -53,7 +53,7 @@ Data may be dropped from cache pre-maturely through actions such as removing the
 
 Stored Data may be removed by either removing the bot from a Server, through the means of kicking or banning it, or by requesting the removal of the data through E-Mail.
 We reserve the right to ask for verification of Ownership of the Server, if removal was requested through E-Mail to prevent any possible abuse. This means that only the Server owner may ask for the removal of data from their Server through E-Mail.
-E-Mail requests should go towards abhijoshi2k@gmail.com or baalkrshna@gmail.com.
+E-Mail requests should go towards praharjokhakar@gmail.com
 
 ### Limitations
 
