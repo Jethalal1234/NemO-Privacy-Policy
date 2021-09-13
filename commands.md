@@ -4,9 +4,9 @@ layout: docs
 
 # Commands - Discord Welcome-Bot
 
-> Default Prefix: `w/`
+> Default Prefix: `-`
 
-If You're not sure what prefix is used you can just `@-mention` the bot (`@Welcome-Bot#0914`) and it will tell you what prefix is used.
+If You're not sure what prefix is used you can just `@-mention` the bot (`@NemO#0898`) and it will tell you what prefix is used.
 You can set a custom prefix for your server, but the default prefix can always be used.
 
 - - -
@@ -15,13 +15,13 @@ You can set a custom prefix for your server, but the default prefix can always b
 
 - - -
 
-All these commands should be prefixed with the prefix i.e. for command `ping` you have to send `w/ping` in the channel the bot has perms to read and send messages.
+All these commands should be prefixed with the prefix i.e. for command `ping` you have to send `-ping` in the channel the bot has perms to read and send messages.
 
 Also note that `User` and `Member` are different, whenever there is `Member` in a command usage that means only people which are in the server can be used, while `User` is global therefore this bot just requires that user to be in the bot's cache.
 
 In some of these you will see under a command their is a subcommand, to execute those, send `command subcommand args` where `command` is the command, `subcommand` is the subcommand and `args` is/are the argument(s)
 
-Example usage of subcommand: `w/message set Welcome {mention}!`
+Example usage of subcommand: `-setverification {channel} {role}`
 
 - - -
 
