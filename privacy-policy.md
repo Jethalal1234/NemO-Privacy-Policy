@@ -61,3 +61,4 @@ We try our best to remove the data when needed but due to the nature of the bot 
 In such cases may you request the manual removal through E-Mail with the conditions as described above.
 
 For this, we have set up db auditor, it runs every 3 hours. We can assure you 99.9% that within 3 hours the data will be removed from db if the bot came back online.
+Thank you!
